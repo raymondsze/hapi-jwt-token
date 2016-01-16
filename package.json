@@ -2,7 +2,7 @@
   "name": "hapi-jwt-token",
   "version": "1.0.0",
   "private": false,
-  "description": "Support mongoose and mongoose model for hapi with bluebird promise",
+  "description": "Support json web token sign and verify function with default sign config and verify config",
   "main": "dist/index.js",
   "author": {
     "name": "Sze Ka Wai Raymond",
