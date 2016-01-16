@@ -1,6 +1,6 @@
 ## hapi-jwt-token [![Build Status](https://travis-ci.org/raymondsze/hapi-jwt-token.svg)](https://travis-ci.org/raymondsze/hapi-jwt-token.svg?branch=master)
 ## Introduction
-<p>1. This plugin can let you plug jsonwebtoken sign function and verify function with config.</p>
+<p>1. This plugin can let you plug <a href="https://github.com/auth0/node-jsonwebtoken">jsonwebtoken</a> sign function and verify function with config.</p>
 <p>2. Sign method accessible by server.plugins['hapi-jwt-token'].sign.</p>
 <p>3. Verify method accessible by server.plugins['hapi-jwt-token'].verify.</p>
 <p>You may use server.method in the callback to prevent always typing the long path server.plugins['hapi-jwt-token']</p>
