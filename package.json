@@ -1,6 +1,6 @@
 {
   "name": "hapi-jwt-token",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "description": "Support json web token sign and verify function with default sign config and verify config",
   "main": "build/index.js",
